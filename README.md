@@ -32,7 +32,11 @@ number ->used to take number type inputs.(used min and max property required for
 date -> used to take input as date.
 radio ->used to take optional inputs.
 email ->used to take email of user.
-
+password -> used to take password from user.
+checkbox -> used as boolean check from the user.
+file -> used to take file type inputs.
+color -> used for taking color inputs from user.
 textarea tag -> used to take large inputs from user.
 button -> used as a button to perform task on form.
 type(sumbit) -> used to submit the form.
+type(reset) -> used to reset the inputs of the form.
